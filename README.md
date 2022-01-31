@@ -26,5 +26,35 @@ Combining with a RESTful API service, the scraper can be used to feed a content 
 
 Check out the <a href="https://github.com/mateusvictor/scrapews/blob/main/scrapews/base_scraper.py">```base_scraper``` class</a> for more understanding of the code.
 
+
 ## Instalation
- 
+
+ - First Clone this repo
+
+```bash
+git clone https://github.com/mateusvictor/scrapews.git
+```
+
+- Change into the project directory
+
+```bash
+cd scrapews/
+```
+
+- Create a Virtualenv in the project directory
+
+```bash
+python -m venv venv
+```
+
+- Activate the virtualenv
+
+```bash
+venv\Scripts\activate.bat
+```
+
+- Install the project dependencies
+
+```bash
+pip install -r requirements.txt
+```
