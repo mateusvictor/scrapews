@@ -2,6 +2,7 @@
 
 A news scraper made in Python using the packages ```requests``` and ```lxml```.
 
+
 <!-- <img src="https://github.com/mateusvictor/scrapews/blob/main/screenshots/example.png"> -->
 
 ```python
